@@ -30,7 +30,7 @@ content:
   address:
     street: Buday László u. 1-3
     city: Budapest
-    postcode: '1024'
+    postcode: 1024 Hungary
     country: Hungary
     country_code: HU
   coordinates:
