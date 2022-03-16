@@ -1,8 +1,6 @@
 ---
 # Display name
 Lívia Murinkó
-# Is this the primary user of the site?
-superuser: true
 
 # Role/position/tagline
 role: Senior Research Fellow
