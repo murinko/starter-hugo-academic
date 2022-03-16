@@ -27,7 +27,7 @@ content:
   # Contact details (edit or remove options as required)
   email: murinko@demografia.hu, murinkolivia@gmail.com
   address:
-    street: 1-3 Buday László u.
+    street: Buday László u. 1-3
     city: Budapest
     postcode: '1024'
     country: Hungary
@@ -37,11 +37,6 @@ content:
       icon_pack: fab
       name: DM Me
       link: 'https://twitter.com/LMurinko'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
-
 design:
   columns: '2'
 ---
