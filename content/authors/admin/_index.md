@@ -1,20 +1,19 @@
 ---
 # Display name
-title: Nelson Bighetti
-
+Lívia Murinkó
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Hungarian Demographic Research Institute
+  url: http://www.demografia.hu/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Sociologist and family demographer
 
 # Interests to show in About widget
 interests:
