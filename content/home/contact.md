@@ -28,9 +28,7 @@ content:
   email: murinko@demografia.hu, murinkolivia@gmail.com
   #phone: 888 888 88 88
   address:
-    street: 
-      - Buday László u. 1-3
-      - Room 608
+    street: Buday László u. 1-3, Room 608
     city: Budapest
     postcode: 1024, Hungary
     country: Hungary
