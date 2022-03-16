@@ -32,7 +32,7 @@ content:
       - Buday László u. 1-3
       - Room 608
     city: Budapest
-    postcode: 1024 Hungary
+    postcode: 1024, Hungary
     country: Hungary
     country_code: HU
   coordinates:
