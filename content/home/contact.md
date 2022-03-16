@@ -38,8 +38,8 @@ content:
     longitude: '-122.1697'
   directions: Room 608
   #office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+  #  - 'Monday 10:00 to 13:00'
+  #  - 'Wednesday 09:00 to 10:00'
   #appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
