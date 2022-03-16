@@ -1,9 +1,13 @@
 ---
 # Display name
-Lívia Murinkó
+title: Lívia Murinkó
 
 # Role/position/tagline
 role: Senior Research Fellow
+
+# Username (this should match the folder name)
+authors:
+  - murinko
 
 # Organizations/Affiliations to show in About widget
 organizations:
