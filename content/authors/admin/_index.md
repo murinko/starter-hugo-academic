@@ -19,9 +19,9 @@ bio: Sociologist and family demographer
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Partnerships and fertility
+  - Transition to adulthood
+  - Life course studies
 social:
   - icon: envelope
     icon_pack: fas
@@ -55,8 +55,10 @@ superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a sociologist and family demographer (PhD) at the Hungarian Demographic Research Institute in Budapest, Hungary. I am currently a senior research fellow and leader of the HDRI Data Lab. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests include transition to adulthood, changing partnership and fertility patterns in the life course. I regularly use international comparative data and multivariate methods such as panel analysis, event history analysis or multilevel models in my research.
+
+Currently I study the typologies and trajectories of cohabiting unions and marriages in the new millennium. The project is funded by the János Bolyai Research Scholarship of the Hungarian Academy of Sciences.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
