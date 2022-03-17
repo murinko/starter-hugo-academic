@@ -61,4 +61,4 @@ My research interests include transition to adulthood, changing partnership and 
 
 Currently I study the typologies and trajectories of cohabiting unions and marriages in the new millennium. The project is funded by the János Bolyai Research Scholarship of the Hungarian Academy of Sciences.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+MY SITE IS UNDER CONSTRUCTION, PLEASE CHECK BACK LATER!
